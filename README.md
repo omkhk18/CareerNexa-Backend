@@ -509,4 +509,5 @@ public interface UserRepository extends JpaRepository<User, Long> {
 
 This architecture provides a robust, scalable, and maintainable backend solution for the PrepWise platform, leveraging Spring Boot's powerful features and best practices.
 #   C a r e e r N e x a - B a c k e n d  
+ #   C a r e e r N e x a - B a c k e n d  
  
